@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 1180px;
+    margin: auto;
+}
+.images {
+    margin-top: 180px;
+    margin-left: 260px;
+}
+.btnSec button {
+    padding: 5px 12px 5px 12px;
+    border-radius: 42px;
+}
+.btnSec {
+    position: absolute;
+    z-index: 1000;
+    top: 385px;
+    display: flex;
+    flex-wrap: wrap;
+}
+button.nextBtn {
+    margin-left: 510px;
+}
+.img img {
+    position: absolute;
+}
+/* .nextBtn_hide{
+    display: none;
+}
+.preBtn_hide{
+    display: none;
+} */
